@@ -1,0 +1,20 @@
+.label-top {
+  transform: translateY(-10px);
+}
+
+.label-middle {
+  transform: translateY(10px);
+}
+
+.label-end {
+  transform: translateY(40px);
+}
+
+.score-label-grey {
+  font-size: 18px;
+}
+
+.score-label-black {
+  font-size: 26px;
+  font-weight: 700;
+}

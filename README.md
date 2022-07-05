@@ -1,15 +1,57 @@
-# Getting Started with Create React App
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# SportSee : physical coaching app
 
-## Available Scripts
+SportSee aims to develop a sports coaching application, which will track physical activity
+
+## 1. General information
+
+## 1.1 Technologies
+- JS
+- CSS in JS
+- React
+
+## 1.2 Contribute to the project
+
+Sportsee is developed by the start-up sportsee
+
+## 1.3 Authors
+
+Our code squad : Laetitia Hars
+
+## 2. Project
+
+### 2.1 Prerequisites
+
+- [NodeJS (**version 12.18**)](https://nodejs.org/en/)
+- [Npm](https://www.npmjs.com/)
+
+If you are working with several versions of NodeJS, we recommend you install [nvm](https://github.com/nvm-sh/nvm). 
+This tool will allow you to easily manage your NodeJS versions.
+
+### 2.2 Launching the project
+
+The front project uses a back. You can find the repo on github : https://github.com/OpenClassrooms-Student-Center/P9-front-end-dashboard
+
+- Fork this repository
+- Clone it on your computer.
+- The `npm install` command will allow you to install the dependencies.
+- The `npm start` command will allow you to run the project.
+- Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
+
+The api currently only contains profile page data for users 12 and 18.
+to access the profile page, go to 
+- [http://localhost:3001/profil/12]
+- [http://localhost:3001/profil/18]
+
+## 3. Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
